@@ -1,0 +1,14 @@
+C:\Users\liubo\Downloads\SmartCardSystem_VS2019\SmartCardSystem\SmartCardSystem\bin\SmartCardSystem.dll.config
+C:\Users\liubo\Downloads\SmartCardSystem_VS2019\SmartCardSystem\SmartCardSystem\bin\SmartCardSystem.dll
+C:\Users\liubo\Downloads\SmartCardSystem_VS2019\SmartCardSystem\SmartCardSystem\bin\SmartCardSystem.pdb
+C:\Users\liubo\Downloads\SmartCardSystem_VS2019\SmartCardSystem\SmartCardSystem\obj\Debug\SmartCardSystem.csproj.AssemblyReference.cache
+C:\Users\liubo\Downloads\SmartCardSystem_VS2019\SmartCardSystem\SmartCardSystem\obj\Debug\SmartCardSystem.csproj.CoreCompileInputs.cache
+C:\Users\liubo\Downloads\SmartCardSystem_VS2019\SmartCardSystem\SmartCardSystem\obj\Debug\SmartCardSystem.dll
+C:\Users\liubo\Downloads\SmartCardSystem_VS2019\SmartCardSystem\SmartCardSystem\obj\Debug\SmartCardSystem.pdb
+C:\Users\liubo\Desktop\SmartCardSystem_VS2019\SmartCardSystem\SmartCardSystem\bin\SmartCardSystem.dll.config
+C:\Users\liubo\Desktop\SmartCardSystem_VS2019\SmartCardSystem\SmartCardSystem\bin\SmartCardSystem.dll
+C:\Users\liubo\Desktop\SmartCardSystem_VS2019\SmartCardSystem\SmartCardSystem\bin\SmartCardSystem.pdb
+C:\Users\liubo\Desktop\SmartCardSystem_VS2019\SmartCardSystem\SmartCardSystem\obj\Debug\SmartCardSystem.csproj.AssemblyReference.cache
+C:\Users\liubo\Desktop\SmartCardSystem_VS2019\SmartCardSystem\SmartCardSystem\obj\Debug\SmartCardSystem.csproj.CoreCompileInputs.cache
+C:\Users\liubo\Desktop\SmartCardSystem_VS2019\SmartCardSystem\SmartCardSystem\obj\Debug\SmartCardSystem.dll
+C:\Users\liubo\Desktop\SmartCardSystem_VS2019\SmartCardSystem\SmartCardSystem\obj\Debug\SmartCardSystem.pdb
